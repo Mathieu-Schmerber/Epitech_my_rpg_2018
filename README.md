@@ -45,6 +45,8 @@ The engine features:
 
 ### Requirements
 
+`my_rpg` is supported on Linux only.
+
 This project requires the CSFML library to run.
 CSFML is the official C library adaptation fo the SFML.
 To install the CSFML follow this guide:
